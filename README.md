@@ -14,4 +14,4 @@ After the break section is over the rounds are incremented
 
 A alert notification pops when Work or Break time is about to get over
 
-Link to the application --
+Link to the application --  https://jewel-7.github.io/Promodo/
