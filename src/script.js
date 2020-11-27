@@ -13,7 +13,7 @@ var startTimer;
 
 start.addEventListener("click", () => {
   if (startTimer === undefined) {
-    startTimer = setInterval(timer, 1);
+    startTimer = setInterval(timer, 1000);
   } else {
     alert("Timer is already running");
   }
